@@ -1,0 +1,8 @@
+pandas==1.5.3
+numpy==1.23.5
+streamlit==1.17.0
+requests==2.28.2
+TA-Lib-binary==0.4.24
+wxpy==0.3.9.8
+scikit-learn==1.2.2
+APScheduler==3.10.1
